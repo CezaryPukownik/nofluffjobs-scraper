@@ -12,7 +12,7 @@ This is full data engenieering project that covers:
 - presents data in user-friendly way in PowerBi dashboard
 
 #### Report Preview
-![PowerBi Preview](report_preview.png)
+![PowerBi Preview](https://github.com/CezaryPukownik/nofluffjobs-scraper/blob/master/preview.png?raw=true)
 
 todo: 
 - use Airflow to orchestrate all individual pieces.
