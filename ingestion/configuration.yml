@@ -1,0 +1,14 @@
+mongodb:
+  host: localhost
+  port: 27017
+  database: local
+  collection: nofluffjobs
+
+postgres:
+  user: postgres
+  password: $DATABASE_PASSWORD
+  host: localhost
+  port: 5432
+  database: dbt
+  table: nofluffjobs
+  schema: raw
